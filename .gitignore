@@ -1,0 +1,30 @@
+# ---- Keil MDK 编译产物 ----
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.sct
+*.dep
+*.bak
+*.build_log.htm
+*.htm
+*.iex
+*.tra
+
+# ---- Keil 用户界面布局（每人一份，不入库） ----
+*.uvguix.*
+*.uvguix
+
+# ---- 其他 ----
+*.rar
+*.zip
+*.7z
+Thumbs.db
+desktop.ini
