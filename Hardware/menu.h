@@ -14,6 +14,8 @@ int Menu(void);
 void StopWatch_Tick(void);
 int StopWatch(void);
 
-int LED(); 
+int LED();
+
+int MPU_6050();
 
 #endif
