@@ -18,4 +18,6 @@ int LED();
 
 int MPU_6050();
 
+int Game_Select(void);
+
 #endif
